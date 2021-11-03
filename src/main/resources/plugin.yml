@@ -1,0 +1,7 @@
+name: SpigotCommonLib
+description: Spigot Base Library
+author: SpigotMC
+website: spigotmc.org
+prefix: SpigotCommon
+version: 1.0.0
+main: org.spigotmc.commonlib
